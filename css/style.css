@@ -1,0 +1,6 @@
+body{
+    background: #ffff;
+    overflow-x: hidden; /* quita el scroll del eje x */
+    font-family: 'Red Hat Text', sans-serif;
+    
+}
